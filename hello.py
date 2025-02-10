@@ -1,5 +1,5 @@
 
-num = 6
+num = 15
 
 
 factorial = 1
